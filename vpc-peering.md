@@ -3,6 +3,9 @@
 ## Diagram
 ![alt text](img/vpc-peering.png)
 
+##### Important
+- Dont overlap subnet id's in between vpc's
+
 ##### VPC 1
 - create vpc
 	- create subnets (private & public)
